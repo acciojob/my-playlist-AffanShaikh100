@@ -17,15 +17,30 @@ a{
 	padding-bottom:20px;
 	padding-left: 10px;
 }
-h2{
+h4{
 	text-align: center;
 	margin-top: -1px;
 }
 .player_two{
-	width: 400px;
-	height:500px;
+	width: 350px;
+	height:370px;
 	border: 2px solid black;
 	border-radius: 5px;
 	background: white;
-
+	margin: auto;
+}
+#one{
+	background: white;
+	text-align: center;
+}
+audio{
+	background: white;
+	padding-left: 25px;
+	
+}
+video{
+         padding-left: 15px;
+	     background: white;
+	     padding-top: 15px;
+	     
 }
